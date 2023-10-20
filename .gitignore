@@ -1,0 +1,24 @@
+venv/
+.venv/
+.idea/
+*.env
+env.sh
+
+*.pc
+*.pyc
+*.pyo
+__pycache__
+.deps
+.libs
+/_build/
+.history
+.vscode
+
+staticfiles
+*.sqlite3
+*.log
+
+# Media files
+media/
+*.DS_Store
+.DS_Store
